@@ -1,0 +1,9 @@
+.bg {
+    width: 100%;
+    height: auto;
+    object-fit: cover
+}
+.font{
+  font-family: 'Josefin Sans', sans-serif !important;
+}
+

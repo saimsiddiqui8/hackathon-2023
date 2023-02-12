@@ -1,0 +1,20 @@
+.head {
+    color: #61B846;
+}
+
+.para {
+    color: #024F9D;
+}
+
+.btn {
+    background-color: #61B846 !important;
+    border: none;
+}
+
+#welcomePage {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
